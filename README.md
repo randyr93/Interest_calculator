@@ -1,4 +1,4 @@
-# ProgrammingLanguages-Program
+# Interest Calculator Program
 
 Project Summary: This project is to calculate interest accrual rate based on any amount initially deposited and for the desired number one years. This project will calculate calculate total balance at the end of every month as well as break down interest accrual by year.
 
